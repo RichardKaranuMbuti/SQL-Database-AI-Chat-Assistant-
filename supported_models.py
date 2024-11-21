@@ -1,0 +1,10 @@
+Supported_models = ['bigscience/mt0-xxl', 'codellama/codellama-34b-instruct-hf', 'core42/jais-13b-chat',
+                    'google/flan-t5-xl', 'google/flan-t5-xxl', 'google/flan-ul2',
+                    'ibm/granite-13b-chat-v2', 'ibm/granite-13b-instruct-v2',
+                    'ibm/granite-20b-code-instruct', 'ibm/granite-20b-multilingual',
+                    'ibm/granite-3-2b-instruct', 'ibm/granite-3-8b-instruct', 
+                    'ibm/granite-7b-lab', 'meta-llama/llama-2-13b-chat', 
+                    'meta-llama/llama-3-1-70b-instruct', 'meta-llama/llama-3-1-8b-instruct',
+                    'meta-llama/llama-3-70b-instruct', 'meta-llama/llama-3-8b-instruct', 
+                    'mistralai/mistral-large', 'mistralai/mixtral-8x7b-instruct-v01', 
+                    'mistralai/pixtral-12b', 'sdaia/allam-1-13b-instruct']
